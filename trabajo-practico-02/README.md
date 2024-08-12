@@ -201,6 +201,9 @@ Para ello debemos iniciar sesion en dockerhub desde la terminal
 Despues le ponemos un tag a nuestra imagen y la subimos con push
 ![](img/image17.png)
 
+Verificamos la subida
+![](img/image37.png)
+
 ## Ejercicio 8
 
 - Ejecutar la siguiente imagen, en este caso utilizamos la bandera -d (detach) para que nos devuelva el control de la consola:
@@ -215,7 +218,7 @@ Despues le ponemos un tag a nuestra imagen y la subimos con push
 - Procedemos entonces a parar y remover este contenedor:
 ![](img/image20.png)
 
-- Vamos a volver a correrlo otra vez, pero publicando los puertos 80 y 5254
+- Vamos a volver a correrlo otra vez, pero publicando el puerto 80
 ![](img/image21.png)
 
 - Accedamos nuevamente a http://localhost/WeatherForecast y a http://localhost/swagger/index.html y expliquemos que sucede.

@@ -20,41 +20,41 @@
 
 #### Pasos del TP
  - 3.1 Crear una cuenta en Azure DevOps
- ![](image.png)
+ ![](img/image.png)
  - 3.2 Crear un repo GIT
- ![](image-3.png)
- ![](image-1.png)
- ![](image-2.png)
+ ![](img/image-3.png)
+ ![](img/image-1.png)
+ ![](img/image-2.png)
  - 3.3 Crear un repo TFVC
- ![](image-4.png)
- ![](image-15.png)
+ ![](img/image-4.png)
+ ![](img/img/image-15.png)
  - 3.4 Importar un repo desde GitHub
- ![](image-5.png)
+ ![](img/image-5.png)
 
  Voy a importar mi repo de ([ing-software-3](https://github.com/cettipao/ing-software-3))
 
- ![](image-6.png)
- ![](image-7.png)
- ![](image-8.png)
- ![](image-9.png)
+ ![](img/image-6.png)
+ ![](img/image-7.png)
+ ![](img/image-8.png)
+ ![](img/image-9.png)
  - 3.5 Clonarlo localmente
 
  Copiamos el link generado por azure
 
- ![](image-10.png)
+ ![](img/image-10.png)
 
  Clonamos:
 
- ![](image-11.png)
+ ![](img/image-11.png)
 
  - 3.6 Realizar un cambio en un archivo, y subirlo al repo de ADO.
 
-![](image-12.png)
-![](image-13.png)
+![](img/image-12.png)
+![](img/image-13.png)
 
 Verificamos el commit en el repo
 
-![](image-14.png)
+![](img/image-14.png)
 
 #### 4- Presentación del trabajo práctico.
 Subir un al repo con las capturas de pantalla de los pasos realizados
