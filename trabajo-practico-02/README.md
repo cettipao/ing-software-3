@@ -296,7 +296,7 @@ Hacer el punto 11 con Microsoft SQL Server
 * Armar un contenedor con SQL Server
 * Crear BD, Tablas y ejecutar SELECT
 
-1. Crear un contenedor con SQL Server
+1. Crear un contenedor con SQL Server con su volumen en $HOME/.sqlserver
 
 ![](img/image34.png)
 
