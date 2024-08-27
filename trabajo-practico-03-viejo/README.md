@@ -21,78 +21,40 @@
 #### Pasos del TP
  - 3.1 Crear una cuenta en Azure DevOps
  ![](img/image.png)
+ - 3.2 Crear un repo GIT
+ ![](img/image-3.png)
+ ![](img/image-1.png)
+ ![](img/image-2.png)
+ - 3.3 Crear un repo TFVC
+ ![](img/image-4.png)
+ ![](img/img/image-15.png)
+ - 3.4 Importar un repo desde GitHub
+ ![](img/image-5.png)
 
- - 3.2 Crear un proyecto Sample01
- 
-![](img/image-1.png)
-![](img/image-2.png)
+ Voy a importar mi repo de ([ing-software-3](https://github.com/cettipao/ing-software-3))
 
- - 3.3 Crear un repo GIT desde cero
+ ![](img/image-6.png)
+ ![](img/image-7.png)
+ ![](img/image-8.png)
+ ![](img/image-9.png)
+ - 3.5 Clonarlo localmente
 
-![](img/image-3.png)
-![](img/image-4.png)
+ Copiamos el link generado por azure
 
- - 3.4 Crear un proyecto Sample02
+ ![](img/image-10.png)
 
-![](img/image-5.png)
-![](img/image-6.png)
+ Clonamos:
 
- - 3.5 Importar un repo desde GitHub: https://github.com/ingsoft3ucc/SimpleWebAPI.git
-
-![](img/image-7.png)
-![](img/image-8.png)
-![](img/image-9.png)
-![](img/image-10.png)
-![](img/image-11.png)
-![](img/image-12.png)
+ ![](img/image-11.png)
 
  - 3.6 Realizar un cambio en un archivo, y subirlo al repo de ADO.
 
- Creo un Repo nuevo (ing-software-3) e inicializo un repo
+![](img/image-12.png)
+![](img/image-13.png)
 
- ![](img/image-13.png)
+Verificamos el commit en el repo
 
- Consigo el link para clonarlo y lo clono en mi pc
-
- ![](img/image-14.png)
- ![](img/image-15.png)
-
- Cambio el readme, commit y push
- ![](img/image-16.png)
- ![](img/image-17.png)
-
- Verifico el cambio en el repo
-
- ![](img/image-18.png)
-
- - 3.7 Crear un pipeline, solicitar acceso a jobs de paralelismo
-
-![](img/image-19.png)
-![](img/image-20.png)
-![](img/image-21.png)
-![](img/image-22.png)
-![](img/image-23.png)
-![](img/image-24.png)
-![](img/image32.png)
-
- - 3.8 Cambiar el tipo de proceso de Basic a Agile
-
-![](img/image-25.png)
-![](img/image-26.png)
-![](img/image-27.png)
-
- - 3.8 Crear un sprint
-
-![](img/image-28.png)
-
- - 3.9 Crear User Stories
-
- ![](img/image-29.png)
-
- - 3.10 Crear Tasks y Bugs
-
-![](img/image-31.png)
-![](img/image-30.png)
+![](img/image-14.png)
 
 #### 4- Presentación del trabajo práctico.
-Subir un al repo con las capturas de pantalla de los pasos realizados y colocar en el excel de repos (https://docs.google.com/spreadsheets/d/1mZKJ8FH390QHjwkABokh3Ys6kMOFZGzZJ3-kg5ziELc/edit?gid=0#gid=0) la url del proyecto de AzureDevops
+Subir un al repo con las capturas de pantalla de los pasos realizados
