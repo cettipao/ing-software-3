@@ -2,6 +2,15 @@
 
 Cetti Paolo - 2223989
 
+ **Azure DevOps Pipelines**
+  - Breve descripción de Azure DevOps Pipelines: Azure DevOps Pipelines es un servicio de integración y entrega continua (CI/CD) que permite automatizar la compilación, prueba y despliegue de aplicaciones en diferentes plataformas y entornos.
+
+  - Tipos de Pipelines: Build y Deploy: Los pipelines de Build se enfocan en la compilación y prueba del código, mientras que los pipelines de Deploy gestionan el despliegue del código en diferentes entornos de producción o desarrollo.
+
+  - Diferencias entre editor clásico y YAML: El editor clásico utiliza una interfaz gráfica para configurar los pipelines, mientras que el editor YAML permite definir la configuración de manera declarativa a través de un archivo de texto, lo que facilita la versión del pipeline en el control de código fuente.
+
+  - Agentes MS y Self-Hosted: Los agentes MS son gestionados por Microsoft en la nube, mientras que los agentes Self-Hosted son gestionados localmente por el equipo de desarrollo, ofreciendo más control sobre el entorno de ejecución.
+
 ## Pasos del TP
  - 4.1 Verificar acceso a Pipelines concedido
 
