@@ -237,9 +237,11 @@ Nos aseguramos que en los test de cypress entre a la pagina deployada de QA
 Creamos un nuevo stage de Deploy y Integration testing con los siguientes jobs
 
 Deploy de Backend y Frontend
+
 ![](img/image-48.png)
 
 Integrations Testings
+
 ![](img/image-49.png)
 
 Resultado esperado:
