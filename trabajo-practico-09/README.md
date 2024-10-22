@@ -129,3 +129,17 @@ Vemos que todas las instancias funcionan
 ![](img/image-26.png)
 
 ![](img/image-27.png)
+
+
+## Requisitos dados en clase 22/10
+
+- Checkear que si fallan los tests unitarios los publica, y no avanza con el pipeline
+
+![](img/image-28.png)
+
+![](img/image-29.png)
+
+- Checkear que si fallan los tests de integracion los publica, y no avanza con el pipeline
+
+![](img/image-30.png)
+![](img/image-31.png)
